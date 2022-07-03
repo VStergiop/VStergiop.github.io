@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "Home"
+title: "Short-Bio"
 ---
-
-Short-Bio
 
 I received my diploma in [Electrical and Computer Engineering](http://www.ece.upatras.gr/index.php/en/) from the University of Patras, Greece, in 2018. Currently, 
 I am a 3rd year PhD student in the [Morpheme team](https://team.inria.fr/morpheme/), at the [I3S laboratory](https://www.i3s.unice.fr/en) in Sophia-Antipolis, France.
