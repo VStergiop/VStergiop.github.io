@@ -8,7 +8,6 @@ I am a 3rd year PhD student in the [Morpheme team](https://team.inria.fr/morphem
 
 I work on inverse problems in imaging with a particular focus on super-resolution in optical microscopy.
 
-
 <!-- 
 {% if site.show_excerpts %}
   {% include home.html %}
