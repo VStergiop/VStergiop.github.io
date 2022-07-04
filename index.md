@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "Home"
+title: ""
 ---
 
-<img width=100 src="photo.jpg" style="display: block; margin: 0 auto">
+
+<img width=130 src="photo.jpg" style="display: block; margin: 0 auto">
 
 <!-- [E-mail](mailto:vasiliki.stergiopoulou@inria.fr)
 
