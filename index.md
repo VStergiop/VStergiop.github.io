@@ -3,6 +3,7 @@ layout: page
 title: "Welcome to my page"
 ---
 
+<meta name="google-site-verification" content="hImW30xZxDkKZorTE_jCF0e8g6r9Mgod1YgUTqwkdZM" />
 
 <img width=130 src="photo.jpg" style="display: block; margin: 0 auto">
 
