@@ -6,13 +6,12 @@ title: CV
 
 ## Education
 
-- 2020 to 2022 (exp.), **PhD in Image Processing, [Morpheme team](https://team.inria.fr/morpheme/), INRIA/CNRS/UCA** <br />
-*Thesis Title:* Learning and optimization for 3D+T super-resolution in fluorescent microscopy <br />
-*Supervisors:* [Laure Blanc-Féraud](https://www.i3s.unice.fr/~blancf/), [Luca Calatroni](https://sites.google.com/view/lucacalatroni) \& Sébastien Schaub
-<!-- Funded by the [Interdisciplinary Institute for Artificial Intelligence](https://3ia.univ-cotedazur.eu/). -->
+- 2020 to 2022 (exp.): **PhD in Image Processing, [Morpheme team](https://team.inria.fr/morpheme/), INRIA/CNRS/UCA** <br />
+*Thesis Title: Learning and optimization for 3D+T super-resolution in fluorescent microscopy <br />
+Supervisors: [Laure Blanc-Féraud](https://www.i3s.unice.fr/~blancf/), [Luca Calatroni](https://sites.google.com/view/lucacalatroni) & Sébastien Schaub*
 
 - 2013 to 2018, **BS \& MS in [Electrical and Computer Engineering](http://www.ece.upatras.gr/index.php/en/), University of Patras, Greece**<br />
-Major in automatic control, robotics and information technology
+*Major in automatic control, robotics and information technology*
 
 - 2017 **MS degree courses in Automation Engineering, University of Bologna, Italy** in the framework of ERASMUS+
 
