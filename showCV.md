@@ -18,7 +18,7 @@ Supervisors: [Laure Blanc-Féraud](https://www.i3s.unice.fr/~blancf/), [Luca Cal
 
 ## Awards
 
-- **Best-Paper Runner-Up Award at IEEE 19th International Symposium on Biomedical Imaging (ISBI)** [[Link]](https://3ia.univ-cotedazur.eu/best-paper-runner-up-award-for-vasiliki-stergiopoulou)
+- **Best-Paper Runner-Up Award at IEEE 19th International Symposium on Biomedical Imaging (ISBI) [[Link]](https://3ia.univ-cotedazur.eu/best-paper-runner-up-award-for-vasiliki-stergiopoulou)**
 
 - **Student Travel Award at 2022 SIAM Conference on Imaging Science (IS22)**
 
