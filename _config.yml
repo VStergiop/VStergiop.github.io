@@ -5,6 +5,8 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
+url: "https://vstergiop.github.io" # the base hostname & protocol for your site
+
 
 # Layout
 
@@ -35,3 +37,4 @@ comments:
 plugins:
  - jekyll-feed
  - jemoji
+ - jekyll-sitemap
