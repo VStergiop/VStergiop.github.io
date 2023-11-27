@@ -18,7 +18,7 @@ Since May 2023, I have been working as a postdoctoral researcher at [EPFL](https
 Previously, I completed my Ph.D. within  the [Morpheme team](https://team.inria.fr/morpheme/) (Inria, CNRS, UCA) under the supervision of [Laure Blanc-Féraud](https://www.i3s.unice.fr/~blancf/), [Luca Calatroni](https://sites.google.com/view/lucacalatroni) and Sébastien Schaub.
 In 2018, I earned my diploma in [Electrical and Computer Engineering](http://www.ece.upatras.gr/index.php/en/) from the University of Patras, Greece.
 
-I work on inverse problems in imaging, with a particular focus on optical systems in microscopy."
+I work on inverse problems in imaging, with a particular focus on optical systems in microscopy.
 
 <!-- 
 {% if site.show_excerpts %}
