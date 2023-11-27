@@ -5,7 +5,7 @@ title: "Publications"
 
 
 # Journals
-- M. Cachia, V. Stergiopoulou, L. Calatroni, S. Schaub, and L. Blanc-Féraud. (2023). *Fluorescence image deconvolution microscopy via generative adversarial learning (FluoGAN)*. Inverse Problems **39** 054006. [doi: 10.1088/1361-6420/acc889](https://doi.org/10.1088/1361-6420/acc889) [[hal]](https://hal.archives-ouvertes.fr/hal-03790156) [[code]](https://github.com/cmayeul/FluoGAN)
+- M. Cachia, V. Stergiopoulou, L. Calatroni, S. Schaub, and L. Blanc-Féraud. (2023). *Fluorescence image deconvolution microscopy via generative adversarial learning (FluoGAN)*. Inverse Problems, vol. 39, num. 5. [doi: 10.1088/1361-6420/acc889](https://doi.org/10.1088/1361-6420/acc889) [[hal]](https://hal.archives-ouvertes.fr/hal-03790156) [[code]](https://github.com/cmayeul/FluoGAN)
 - 
 - V. Stergiopoulou, L. Calatroni, H. de Morais Goulart, S. Schaub, and L. Blanc-Féraud. (2022). *COL0RME: Super-resolution microscopy based on sparse blinking/fluctuating fluorophore localization and intensity estimation*. Biological Imaging, vol. 2, e1. [doi: 10.1017/S2633903X22000010](https://doi.org/10.1017/S2633903X22000010) [[hal]](https://hal.archives-ouvertes.fr/hal-03320950) [[code]](https://github.com/VStergiop/COL0RME)
 
