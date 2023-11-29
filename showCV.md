@@ -38,4 +38,4 @@ Supervisors: [Laure Blanc-Féraud](https://www.i3s.unice.fr/~blancf/), [Luca Cal
   - Signaux et Systémes pour les transmissions (Signals and Systems for Transmissions), IUT Nice Côte d'Azur, Côte d'Azur University (27h)
   - Numérisation de l’information (Digitization of information, IUT Nice Côte d'Azur, Côte d'Azur University (27h)
 
-### You can find my CV [here](VasilinaCV.pdf).
+### You can find my CV [here](CV_Stergiopoulou.pdf).
