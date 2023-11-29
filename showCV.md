@@ -7,9 +7,9 @@ title: ""
 ## Education
 
 - 2020 to 2023: **PhD Degree** in Automatic, Signal and Image Processing, [Morpheme team](https://team.inria.fr/morpheme/), INRIA/CNRS/UCA <br />
+<span style='color: skyblue;'>**Defended on January 30, 2023.**</span> <br />
 *Thesis Title: Learning and optimization for 3D+T super-resolution in fluorescent microscopy [[Manuscript]](https://theses.hal.science/tel-04089027) <br />
 Supervisors: [Laure Blanc-Féraud](https://www.i3s.unice.fr/~blancf/), [Luca Calatroni](https://sites.google.com/view/lucacalatroni) & Sébastien Schaub* <br />
-<span style='color: skyblue;'>Defended on January 30, 2023.</span> 
 
 
 - 2013 to 2018: **BS & MS Degree** in [Electrical and Computer Engineering](http://www.ece.upatras.gr/index.php/en/), University of Patras, Greece <br />
