@@ -19,13 +19,13 @@ Supervisors: [Laure Blanc-Féraud](https://www.i3s.unice.fr/~blancf/), [Luca Cal
 
 ## Awards & Achievements
 
-- **Best-Paper** Runner-Up Award at IEEE 19th International Symposium on Biomedical Imaging (ISBI) [[Link]](https://3ia.univ-cotedazur.eu/best-paper-runner-up-award-for-vasiliki-stergiopoulou)
+- Best-Paper Runner-Up Award at IEEE 19th International Symposium on Biomedical Imaging (ISBI) [[Link]](https://3ia.univ-cotedazur.eu/best-paper-runner-up-award-for-vasiliki-stergiopoulou)
 
 - PhD scholarship funded by the [Interdisciplinary Institute for Artificial Intelligence (3IA)](https://3ia.univ-cotedazur.eu/)
 
 ## Teaching
 
-- 2020-2022: **Teaching Assistant** at the University of Côte d'Azur (around 64h/year)
+- 2020-2022: Teaching Assistant at the University of Côte d'Azur (around 64h/year)
   - *Machine Learning in Image Analysis*, Master Data Science (Polytechnic School)
   - *Inverse problems in image processing*, Master Data Science Artificial Intelligence (Master MIAGE)
   - *Acquisition and coding of information* (Undergraduate course), IUT Nice Côte d'Azur
