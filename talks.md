@@ -12,3 +12,6 @@ title: "Talks"
 - March 2022, **Oral Presentation at IEEE 19th International Symposium on Biomedical Imaging (ISBI)** (Kolkata, India) [[Link]](https://ieeexplore.ieee.org/document/9761572)<br />
 - June 2022, **Invited Oral Presentation at Cambridge Advanced Imaging Centre** (Cambridge, UK)<br />
 - June 2022, **Invited Oral Presentation at MRC Laboratory of Molecular Biology** (Cambridge, UK)
+- September 2022, **Oral Presentation at 1st French-Italian workshop on the Mathematics of Imaging, Vision and their Applications** (Sophia Antipolis, France) [[Link]](https://sites.google.com/view/workshop-mia-miva/home)
+- December 2022, **Oral Presentation at Mathematical Models for Plug-and-play Image Restoration** (Paris, France) [[Link]](https://gdr-mia.math.cnrs.fr/events/pnpworkshop/)
+- September 2023, **Invited Oral Presentation at 30 Years of Mathematics for Optical Imaging** (Marseille, France) [[Link]](https://math-image.sciencesconf.org/)
