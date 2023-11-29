@@ -28,14 +28,11 @@ Supervisors: [Laure Blanc-Féraud](https://www.i3s.unice.fr/~blancf/), [Luca Cal
 
 ## Teaching
 
-- 2020-2021 Academic Year
-  - Initiation à la mesure du signal (Introduction to signal processing), IUT Nice Côte d'Azur, Côte d'Azur University (36h)
-  - Acquisition et codage de l'information (Acquisition and coding of information), IUT Nice Côte d'Azur, Côte d'Azur University (24h)
+- 2020-2022: **Teaching Assistant** at the University of Côte d'Azur (around 64h/year)
+  - *Machine Learning in Image Analysis*, Master Data Science (Polytechnic School)
+  - *Inverse problems in image processing*, Master Data Science Artificial Intelligence (Master MIAGE)
+  - *Acquisition and coding of information* (Undergraduate course), IUT Nice Côte d'Azur
+  - *Introduction to signal processing* (Undergraduate course), IUT Nice Côte d'Azur
 
-- 2021-2022 Academic Year
-  - Machine Learning in Image Analysis, MSc in Data Science, Côte d'Azur University (2h)
-  - Inverse problems in image processing, MSc in Data Science and Artificial Intelligence, Côte d'Azur University (6h)
-  - Signaux et Systémes pour les transmissions (Signals and Systems for Transmissions), IUT Nice Côte d'Azur, Côte d'Azur University (27h)
-  - Numérisation de l’information (Digitization of information, IUT Nice Côte d'Azur, Côte d'Azur University (27h)
 
 ### You can find my CV [here](CV_Stergiopoulou.pdf).
