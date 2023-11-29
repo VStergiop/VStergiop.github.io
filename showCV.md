@@ -19,9 +19,9 @@ Supervisors: [Laure Blanc-Féraud](https://www.i3s.unice.fr/~blancf/), [Luca Cal
 
 ## Awards & Achievements
 
-- **Best-Paper Runner-Up Award at IEEE 19th International Symposium on Biomedical Imaging (ISBI) [[Link]](https://3ia.univ-cotedazur.eu/best-paper-runner-up-award-for-vasiliki-stergiopoulou)**
+- **Best-Paper** Runner-Up Award at IEEE 19th International Symposium on Biomedical Imaging (ISBI) [[Link]](https://3ia.univ-cotedazur.eu/best-paper-runner-up-award-for-vasiliki-stergiopoulou)
 
-- **PhD scholarship funded by the [Interdisciplinary Institute for Artificial Intelligence (3IA)](https://3ia.univ-cotedazur.eu/)**
+- PhD scholarship funded by the [Interdisciplinary Institute for Artificial Intelligence (3IA)](https://3ia.univ-cotedazur.eu/)
 
 ## Teaching
 
